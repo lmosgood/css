@@ -1,0 +1,15 @@
+
+.wufoo li {
+width: 75%
+}
+#container {
+width: 740px;
+}
+
+input+label.choice .choice_qty {
+color:transparent;
+}
+
+#public input[disabled] + label.choice .choice_qty {
+     color: transparent;
+     }
